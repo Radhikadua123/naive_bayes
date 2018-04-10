@@ -6,3 +6,5 @@ The fundamental Naive Bayes assumption is that each feature makes an independent
 ## Bayes Theorem
 Bayes Theorem finds the probability of an event occurring given the probability of another event that has already occurred. Bayes’ theorem is stated mathematically as the following equation: <br />
 ![](./Bayes_rule-300x172-300x172.png)
+## Result
+![](./naive_result.png)
